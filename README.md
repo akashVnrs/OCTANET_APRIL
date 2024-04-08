@@ -10,7 +10,10 @@ Custom Styling: Stylish fonts, colors, and layout techniques are used to enhance
 Social Media Integration: Social media icons are included, allowing users to easily connect with the brand on popular platforms.
 
 Acknowledgments
+
 Background images sourced from Unsplash
 Icons provided by Remix Icon
+
 Feedback
+
 Your feedback is greatly appreciated! If you have any suggestions, issues, or feature requests, please open an issue or submit a pull request.
