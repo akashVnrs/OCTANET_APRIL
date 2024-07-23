@@ -1,19 +1,36 @@
-Noise Landing Page
+# Noise
 
-Overview
-This repository contains the source code for the Noise landing page, a web development project showcasing HTML and CSS skills. The landing page features a sleek design with captivating visuals and responsive layout.
+Description
+------------
+Noise is a responsive web page project that features a visually appealing design with an emphasis on modern aesthetics and usability. The project includes multiple sections, each showcasing different aspects such as news, art, and social media presence.
+
+This landing page was developed during a two-month internship at OCTANET Service Private Limited.
 
 Features
-Responsive Design: The landing page is optimized for various screen sizes, ensuring a consistent user experience across devices.
-Engaging Content: Each section of the page is carefully crafted to captivate attention and drive interaction.
-Custom Styling: Stylish fonts, colors, and layout techniques are used to enhance the visual appeal of the page.
-Social Media Integration: Social media icons are included, allowing users to easily connect with the brand on popular platforms.
+--------
+- Responsive Design: Adapts to various screen sizes and devices.
+- Background Images: Utilizes high-quality images to enhance visual appeal.
+- Social Media Icons: Integrated icons for popular social media platforms.
+- Section Layouts: Includes sections for latest news, art, and updates with image placeholders.
 
-Acknowledgments
+Technologies Used
+-----------------
+- HTML5
+- CSS3
+- Remix Icon (https://remixicon.com/)
 
-Background images sourced from Unsplash
-Icons provided by Remix Icon
+How to Use
+----------
+1. Clone the repository:
+   git clone https://github.com/yourusername/OCTANET_APRIL.git
 
-Feedback
+2. Navigate to the project directory:
+   cd OCTANET_APRIL
 
-Your feedback is greatly appreciated! If you have any suggestions, issues, or feature requests, please open an issue or submit a pull request.
+3. Open `index.html` in your preferred web browser to view the project.
+
+
+Contact
+-------
+LinkedIn: https://www.linkedin.com/in/akashvanarse/
+Email: akashjvanarse@gmail.com
